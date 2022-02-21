@@ -1,5 +1,6 @@
 <template>
   <h1>Vue メモ</h1>
+  <h2>入力してください</h2>
   <div class="memo-list">
     <ul class="memo-list__container">
       <li class="memo">
