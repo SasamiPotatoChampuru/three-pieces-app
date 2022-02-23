@@ -1,5 +1,6 @@
 <template>
-  <h1>Vue クイズ</h1>
+  <h1>Vue クイズ</h1>]
+  <h1>変更２</h1>
   <div class="app">
     <h2>Q. {{ "クイズタイトル" }}</h2>
     <img
